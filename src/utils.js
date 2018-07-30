@@ -1,3 +1,4 @@
+//david
 /**
  * Determines if the provided value has been defined.
  *
